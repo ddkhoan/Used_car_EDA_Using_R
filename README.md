@@ -22,5 +22,5 @@ Understanding how fast vehicle value erodes with age and mileage informs trade-i
 * **Brand Premiums:** Truck-oriented brands dictate the highest median prices in this regional market, led by Ram ($33,444), GMC ($24,345), and Ford ($18,995).
 
 ## Contact
-* LinkedIn: https://www.linkedin.com/in/khoa-nguyen-38076b365/)
+* LinkedIn: https://www.linkedin.com/in/khoa-nguyen-38076b365/
 * Email: nd.duykhoa@gmail.com
