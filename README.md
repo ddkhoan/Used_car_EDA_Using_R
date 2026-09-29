@@ -21,20 +21,6 @@ Understanding how fast vehicle value erodes with age and mileage informs trade-i
 * **Anomaly Detection:** Identified and removed a systematic $99 "placeholder price" artifact across 293 listings that would have fabricated a false low-price cluster.
 * **Brand Premiums:** Truck-oriented brands dictate the highest median prices in this regional market, led by Ram ($33,444), GMC ($24,345), and Ford ($18,995).
 
-## Visualizations
-*(View the `/charts` folder for full-resolution exports)*
-1. `chart_univariate.png`: Skewed distributions of price and mileage.
-2. `chart_price_anomaly.png`: Spotlight on the $99 placeholder pricing artifact.
-3. `chart_categorical.png`: Median price spread by brand and fuel type.
-
-## How to Reproduce
-1. Clone this repository: `git clone https://github.com/Username/used-car-market-eda-r.git`
-2. Open `used_cars_eda_Doan-Duy-Khoa-Nguyen.R` in RStudio.
-3. Ensure the `used_cars_me.csv` file is in the working directory and execute the script.
-
-## What I Learned / Next Steps
-Detecting the $99 placeholder artifact reinforced that real-world data requires aggressive domain-specific QA before any modeling begins. Next steps involve building a multivariate pricing model to isolate the independent effects of brand, age, and mileage.
-
 ## Contact
-* LinkedIn: [Your LinkedIn URL]
-* Email: [Your Email]
+* LinkedIn: https://www.linkedin.com/in/khoa-nguyen-38076b365/)
+* Email: nd.duykhoa@gmail.com
